@@ -21,4 +21,4 @@ What things are needed to install the software and how to install them. For now,
 ## Authors
 
 * **Glenn Stark** - *Initial work* - [YourWebsite](https://example.com/)
-
+I am wanting to learn how to version control projects with git.
